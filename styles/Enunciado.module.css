@@ -1,0 +1,9 @@
+
+.enunciado{
+    display: flex;  
+}
+
+.texto{
+    font-size: 3rem;
+    font-weight: 700;
+}
